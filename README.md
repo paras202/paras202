@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
@@ -23,7 +21,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Paras+Singla;Hello+World%2C+I'm+Software+Engineer+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Justice+%26+Innovation+%E2%9A%96%EF%B8%8F;MERN+Stack+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Paras+Singla;Hello+World%2C+I'm+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Websites+%26+Innovation+%E2%9A%96%EF%B8%8F;MERN+Stack+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
